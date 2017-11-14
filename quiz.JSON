@@ -1,7 +1,54 @@
-{ "quiz":{
-"question": "When was KAZSAT2 launched?",
-"answer1": "16 July 2011",
-"answer2": "16 July 2012",
-"answer3": "16 July 2010",
-"answer4": "16 July 2013"}
-}
+[
+  {
+    "quiz": [
+      {
+      "question": "When was KAZSAT2 launched?",
+      "answer1": "16 July 2011",
+      "answer2": "16 July 2012",
+      "answer3": "16 July 2010",
+      "answer4": "16 July 2013",
+      },
+      {
+      "question": "What is the lifetime of the satellite?",
+      "answer1": "10 years ",
+      "answer2": "12 years",
+      "answer3": "15 years",
+      "answer4": "20 years"
+
+      } , 
+     {
+      "question": "Question #3?",
+      "answer1": "answer 1",
+      "answer2": "answer 2",
+      "answer3": "answer 3",
+      "answer4": "answer 4"
+
+      } , 
+     {
+      "question": "Question #4?",
+      "answer1": "answer 1",
+      "answer2": "answer 2",
+      "answer3": "answer 3",
+      "answer4": "answer 4"
+
+      } , 
+     {
+      "question": "Question #5?",
+      "answer1": "answer 1",
+      "answer2": "answer 2",
+      "answer3": "answer 3",
+      "answer4": "answer 4"
+       
+      } , 
+     {
+      "question": "Question #6?",
+      "answer1": "answer 1",
+      "answer2": "answer 2",
+      "answer3": "answer 3",
+      "answer4": "answer 4"
+
+      }
+    
+    ]
+  }
+]
