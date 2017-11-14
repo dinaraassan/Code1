@@ -23,10 +23,10 @@
      {
       "question": "Question #3?",
       "answer1": "answer 1",
-      "answer2": "answer 2",
+      "answer2": "correct answer",
       "answer3": "answer 3",
       "answer4": "answer 4",
-             "correct": "answer 2"
+      "correct": "correct answer"
 
 
       } , 
@@ -35,27 +35,27 @@
       "answer1": "answer 1",
       "answer2": "answer 2",
       "answer3": "answer 3",
-      "answer4": "answer 4",
-                    "correct": "answer 4"
+      "answer4": "correct 4",
+      "correct": "correct 4"
 
 
       } , 
      {
       "question": "Question #5?",
-      "answer1": "answer 1",
+      "answer1": "correct 1",
       "answer2": "answer 2",
       "answer3": "answer 3",
       "answer4": "answer 4",
-                           "correct": "answer 1"
+       "correct": "correct 1"
 
       } , 
      {
       "question": "Question #6?",
       "answer1": "answer 1",
-      "answer2": "answer 2",
+      "answer2": "correct 2",
       "answer3": "answer 3",
       "answer4": "answer 4",
-                           "correct": "answer 2"
+      "correct": "correct 2"
 
       }
     
